@@ -1,0 +1,8 @@
+- 👋 Hi, I’m @mohammedfalahi
+- 👀 I’m interested in Artificial Intelligence, Software Development, and Data Science
+- 🌱 I’m currently learning Deep Learning, Backend Development, and Business Analytics
+- 💞️ I’m looking to collaborate on real-world AI projects, open-source contributions, and innovative automation tools
+- 📫 How to reach me: sanufalahi5034@gmail.com | LinkedIn: [linkedin.com/in/mohammedfalahi](https://linkedin.com/in/mohammedfalahi)
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: I’m passionate about combining traditional values with modern tech, and I dream of traveling the world while building intelligent systems!
+-
