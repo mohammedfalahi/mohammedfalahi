@@ -14,6 +14,8 @@ My work focuses on LLM applications, RAG pipelines, multi-agent orchestration, a
 
 Open to collaborating on real-world AI products and automation tools.
 
-🌐 mohammedfalahi.in
+🌐 www.mohammedfalahi.in
+
 📫 [sanufalahi5034@gmail.com](mailto:sanufalahi5034@gmail.com)
+
 🔗 linkedin.com/in/mohammed-falahi
