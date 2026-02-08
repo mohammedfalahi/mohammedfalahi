@@ -1,8 +1,19 @@
-- 👋 Hi, I’m @mohammedfalahi
-- 👀 I’m interested in Artificial Intelligence, Software Development, and Data Science
-- 🌱 I’m currently learning Deep Learning, Backend Development, and Business Analytics
-- 💞️ I’m looking to collaborate on real-world AI projects, open-source contributions, and innovative automation tools
-- 📫 How to reach me: sanufalahi5034@gmail.com | LinkedIn: [linkedin.com/in/mohammedfalahi](https://linkedin.com/in/mohammedfalahi)
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: I’m passionate about combining traditional values with modern tech, and I dream of traveling the world while building intelligent systems!
--
+👋 Mohammed Falahi — AI & Automation Engineer
+
+I design and build agentic AI systems that turn real-world workflows into autonomous software.
+
+My work focuses on LLM applications, RAG pipelines, multi-agent orchestration, and production AI APIs — from retail assistants and forecasting engines to communication automation platforms.
+
+🔧 Core Focus
+• Agentic AI & AI Automation
+• LLM Applications (RAG, Tool Calling, Reasoning Workflows)
+• FastAPI-based AI Backends & Deployments
+• Data Pipelines & Decision Systems
+
+🚀 I like building practical AI — systems that reduce manual work, not demo notebooks.
+
+Open to collaborating on real-world AI products and automation tools.
+
+🌐 mohammedfalahi.in
+📫 [sanufalahi5034@gmail.com](mailto:sanufalahi5034@gmail.com)
+🔗 linkedin.com/in/mohammed-falahi
