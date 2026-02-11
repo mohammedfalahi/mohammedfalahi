@@ -30,7 +30,7 @@ Most of my projects aim to reduce manual effort through decision-driven automati
 
 Portfolio: [https://mohammedfalahi.in](https://mohammedfalahi.in)
 LinkedIn: [https://linkedin.com/in/mohammed-falahi](https://linkedin.com/in/mohammed-falahi)
-Email: [sanufalahi5034@gmail.com](mailto:sanufalahi5034@gmail.com)
+Email: [mohammedfalahi.ai@gmail.com](mailto:mohammedfalahi.ai@gmail.com)
 
 ---
 
